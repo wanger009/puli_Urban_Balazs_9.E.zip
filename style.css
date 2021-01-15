@@ -1,0 +1,58 @@
+body{
+    background-color: rgba(175, 245, 105, 0.781);
+    margin-left: 300px;
+    margin-right: 500px;
+    
+}
+
+.jobbra{
+    margin-left: 500px;
+    margin-right: 0px;
+}
+.pulik{
+    float: left;
+}
+.sarga{
+    background-color: yellow;
+}
+#tortenete{
+    color: yellow;
+}
+#kulleme{
+    color: yellow;
+}
+#szinei{
+    color: yellow;
+}
+#jelleme{
+    color: yellow;
+}
+#meretei{
+    color: yellow;
+}
+#rokonfajtak{
+    color: yellow;
+    
+}
+#hires{
+    color: yellow;
+    
+}
+hr{
+    border: 1px solid yellow;
+}
+.kep{
+    width: 400px;
+    margin-left: 200px;
+}
+.jobbkep{
+    width: 150px;
+    float: right;
+}
+a,a:visited{
+    color:#808080;
+    text-decoration:none   
+}
+.kistabla{
+    width: 800px;
+}
